@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/java/org/springside/examples/showcase/demos/cache/ehcache=UTF-8
+encoding//src/main/java/org/springside/examples/showcase/demos/cache/memcached=UTF-8
+encoding//src/main/java/org/springside/examples/showcase/demos/hystrix/service/GetUserCommand.java=UTF-8
+encoding//src/main/java/org/springside/examples/showcase/demos/redis=UTF-8
+encoding//src/main/java/org/springside/examples/showcase/demos/utilities/dozer/DozerDemo.java=UTF-8
+encoding//src/main/java/org/springside/examples/showcase/demos/utilities/xml=UTF-8
+encoding//src/main/java/org/springside/examples/showcase/demos/utilities/xml/Role.java=UTF-8
+encoding//src/main/resources=UTF-8
+encoding//src/test/functional=UTF-8
+encoding//src/test/java=UTF-8
+encoding//src/test/resources=UTF-8
+encoding/<project>=UTF-8
